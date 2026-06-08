@@ -1,13 +1,13 @@
 ## Currency Exchange Office System
 
 # Course
-##Network Application Development
+Network Application Development
 
 # Author
-##Akzhol Abdinazarov
+Akzhol Abdinazarov
 
 # Student ID
-##56362
+56362
 
 # Project Description
 
