@@ -1,0 +1,61 @@
+﻿<Window x:Class="CurrencyExchangeWpfClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CurrencyExchangeWpfClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid Margin="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="Username:" Grid.Row="0"/>
+            <TextBox Name="UsernameTextBox"
+             Grid.Row="0"
+             Margin="120,0,0,10"
+             Width="150"/>
+
+            <Button Content="Create User"
+            Grid.Row="1"
+            Width="120"
+            Click="CreateUserButton_Click"/>
+
+            <TextBlock Text="Amount:" Grid.Row="2"/>
+            <TextBox Name="AmountTextBox"
+             Grid.Row="2"
+             Margin="120,0,0,10"
+             Width="150"/>
+
+            <TextBlock Text="From Currency:" Grid.Row="3"/>
+            <TextBox Name="FromCurrencyTextBox"
+             Grid.Row="3"
+             Margin="120,0,0,10"
+             Width="150"/>
+
+            <TextBlock Text="To Currency:" Grid.Row="4"/>
+            <TextBox Name="ToCurrencyTextBox"
+             Grid.Row="4"
+             Margin="120,0,0,10"
+             Width="150"/>
+
+            <Button Content="Convert"
+            Grid.Row="5"
+            Width="120"
+            Click="ConvertButton_Click"/>
+
+            <TextBlock Name="ResultTextBlock"
+               Grid.Row="6"
+               Margin="0,20,0,0"
+               FontSize="16"/>
+        </Grid>
+    </Grid>
+</Window>

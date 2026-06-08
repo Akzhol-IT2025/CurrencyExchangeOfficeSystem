@@ -1,0 +1,12 @@
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeService\bin\CurrencyExchangeService.dll.config
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeService\bin\CurrencyExchangeService.dll
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeService\bin\CurrencyExchangeService.pdb
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeService\obj\Debug\CurrencyExchangeService.csproj.AssemblyReference.cache
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeService\obj\Debug\CurrencyExchangeService.csproj.CoreCompileInputs.cache
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeService\obj\Debug\CurrencyExchangeService.dll
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeService\obj\Debug\CurrencyExchangeService.pdb
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeService\bin\Newtonsoft.Json.dll
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeService\bin\Newtonsoft.Json.xml
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeService\obj\Debug\Currency.B8FC4751.Up2Date
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeService\bin\System.Data.SQLite.dll
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeService\bin\System.Data.SQLite.xml

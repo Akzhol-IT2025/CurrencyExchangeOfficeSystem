@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CurrencyExchangeService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\CurrencyExchangeWpfClient\\CurrencyExchangeWpfClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

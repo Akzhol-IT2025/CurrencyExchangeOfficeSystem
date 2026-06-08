@@ -1,0 +1,15 @@
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeWpfClient\bin\Debug\CurrencyExchangeWpfClient.exe.config
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeWpfClient\bin\Debug\CurrencyExchangeWpfClient.exe
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeWpfClient\bin\Debug\CurrencyExchangeWpfClient.pdb
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeWpfClient\obj\Debug\CurrencyExchangeWpfClient.csproj.AssemblyReference.cache
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeWpfClient\obj\Debug\MainWindow.g.cs
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeWpfClient\obj\Debug\App.g.cs
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeWpfClient\obj\Debug\CurrencyExchangeWpfClient_MarkupCompile.cache
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeWpfClient\obj\Debug\CurrencyExchangeWpfClient_MarkupCompile.lref
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeWpfClient\obj\Debug\MainWindow.baml
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeWpfClient\obj\Debug\CurrencyExchangeWpfClient.g.resources
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeWpfClient\obj\Debug\CurrencyExchangeWpfClient.Properties.Resources.resources
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeWpfClient\obj\Debug\CurrencyExchangeWpfClient.csproj.GenerateResource.cache
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeWpfClient\obj\Debug\CurrencyExchangeWpfClient.csproj.CoreCompileInputs.cache
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeWpfClient\obj\Debug\CurrencyExchangeWpfClient.exe
+C:\Users\erzha\Desktop\Akzhol\CurrencyExchangeWpfClient\obj\Debug\CurrencyExchangeWpfClient.pdb
