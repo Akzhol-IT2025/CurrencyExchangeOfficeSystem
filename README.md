@@ -1,22 +1,15 @@
-# Currency Exchange Office System
+## Currency Exchange Office System
 
-## Course
+# Course
+##Network Application Development
 
-Network Application Development
+# Author
+##Akzhol Abdinazarov
 
-## Project Title
+# Student ID
+##56362
 
-Currency Exchange Office System
-
-## Author
-
-Akzhol Abdinazarov
-
-## Student ID
-
-56362
-
-## Project Description
+# Project Description
 
 This project is a network-based currency exchange office system developed in C#.
 
